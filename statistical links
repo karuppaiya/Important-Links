@@ -10,6 +10,15 @@ mlxtend
 http://rasbt.github.io/mlxtend/
 https://github.com/pymc-devs/pymc3
 
+AutoML
+https://pycaret.org/
+https://github.com/hyperopt/hyperopt-sklearn
+http://epistasislab.github.io/tpot/
+https://automl.github.io/auto-sklearn/master/
+
+Optimization tool
+http://www.pyomo.org/blog
+
 Data visualization
 https://www.atoti.io/getting-started-with-atoti/
 
@@ -27,3 +36,10 @@ Feature Engineering
 https://www.featuretools.com/
 https://compose.alteryx.com/en/stable/start.html
 https://tsfresh.readthedocs.io/en/latest/text/feature_extraction_settings.html
+
+medical research
+https://github.com/epispot/epispot
+
+
+Computer Vision
+https://github.com/hkchengrex/STCN
