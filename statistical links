@@ -25,6 +25,7 @@ https://www.atoti.io/getting-started-with-atoti/
 ML MODEL-VIZ
 https://eli5.readthedocs.io/en/latest/overview.html
 https://shap.readthedocs.io/en/latest/index.html
+https://github.com/evidentlyai/evidently
 
 Analyzing brain neurons
 https://pypi.org/project/allensdk/
@@ -44,6 +45,8 @@ https://github.com/epispot/epispot
 Computer Vision
 https://github.com/hkchengrex/STCN
 
+Fast
+https://github.com/BaguaSys/bagua
 
 Statistics
 https://researchpy.readthedocs.io/en/latest/codebook_documentation.html
