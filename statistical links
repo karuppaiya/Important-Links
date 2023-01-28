@@ -40,6 +40,8 @@ Feature Engineering
 https://www.featuretools.com/
 https://compose.alteryx.com/en/stable/start.html
 https://tsfresh.readthedocs.io/en/latest/text/feature_extraction_settings.html
+------ Image to text or pdf to text ------
+https://pypi.org/project/pytesseract/
 
 medical research
 https://github.com/epispot/epispot
